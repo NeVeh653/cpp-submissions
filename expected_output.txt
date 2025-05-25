@@ -1,1 +1,6 @@
-text-just text
+Thread 0 finished its part of the computation.
+Thread 1 finished its part of the computation.
+Thread 2 finished its part of the computation.
+Thread 3 finished its part of the computation.
+Integral result: 2.000000
+Computation time: 0.0123 seconds
