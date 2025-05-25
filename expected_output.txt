@@ -1,1 +1,1 @@
-Hello from thread
+The sum of numbers from 1 to 100 is: 5050

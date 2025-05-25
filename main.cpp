@@ -1,9 +1,10 @@
 ﻿#include <iostream>
-#include <omp.h>
+
 int main() {
-#pragma omp parallel
-    {
-        std::cout << "Hello from thread " << omp_get_thread_num() << std::endl;
+    int sum = 0;
+    for (int i = 1; i <= 100; i++) {
+        sum += i;
     }
+    std::cout << "The sum of numbers from 1 to 100 is: " << sum << std::endl;
     return 0;
 }
