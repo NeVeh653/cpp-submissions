@@ -1,5 +1,1 @@
-Thread 0 completed its task.
-Thread 1 completed its task.
-Thread 2 completed its task.
-Thread 3 completed its task.
-Sum result: 1000
+Hello from thread
